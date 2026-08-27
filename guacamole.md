@@ -4,4 +4,4 @@
 * lime (R15)
 * salt (R10)
 ## Instructions
-* put one avocado into a bowl
+* peel the avocados and put them into a bowl
